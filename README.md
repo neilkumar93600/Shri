@@ -31,7 +31,6 @@ How to Use :-
 
 
 
-
 How it Works :-
 
 The app is built on top of the ChatGPT API, which enables the app to understand and respond to user commands with accurate and relevant responses.
