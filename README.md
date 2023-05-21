@@ -3,7 +3,7 @@ Voice Assistant App - Shri (For Visually Impaired People)
 Welcome to our Voice Assistant App! This app is designed to assist you in your daily tasks, answer your questions and provide a seamless experience with the help of the state-of-the-art ChatGPT API.
 This app also features a unique function that converts text to braille code, making it particularly useful for visually impaired users.
 
-Features :-
+Features 👎
 
 . Text to Speech Conversion
 
